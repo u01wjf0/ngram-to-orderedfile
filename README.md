@@ -3,3 +3,4 @@ This will take a list of ngram files from the google ngram page and then output 
 
 This was created to aid an interest in word based password cracking.
 
+IN DEV MODE AT THE MOMENT
